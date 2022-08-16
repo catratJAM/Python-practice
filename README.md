@@ -1,3 +1,3 @@
 # Python-practice
-numpy: 21/100
+numpy: 27/100
 pandas: 0/100
